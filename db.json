@@ -29,11 +29,6 @@
 			"body": "body 2"
 			"entryId": 2
 		}
-		{
-			"id": 3
-			"body": "body 3"
-			"entryId": 1
-		}
 	]
 	"profile" {
 		"name": "Jeremy"
