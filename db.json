@@ -12,7 +12,7 @@
 			"id": 2
 			"title": "title 2"
 		}
-	]
+	],
 	"comments": [
 		{
 			"id": 0
@@ -29,7 +29,7 @@
 			"body": "body 2"
 			"entryId": 2
 		}
-	]
+	],
 	"profile" {
 		"name": "Jeremy"
 	}
